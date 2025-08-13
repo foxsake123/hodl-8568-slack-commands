@@ -1,8 +1,3 @@
 {
-  "version": 2,
-  "functions": {
-    "api/slack/commands/update.js": {
-      "runtime": "nodejs18.x"
-    }
-  }
+  "version": 2
 }
